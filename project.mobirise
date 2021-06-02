@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "zalduondo eus",
-    "currentPage": "page2.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -41,16 +41,17 @@
     ],
     "versionFirst": "4.7.6",
     "uniqCompNum": 79,
-    "versionPublish": "4.11.2",
+    "versionPublish": "4.12.4",
     "screenshot": "screenshot.png",
     "favicon": false,
-    "noImageResize": false,
+    "noImageResize": null,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
     "cookiesAlert": false,
-    "gdpr": false
+    "gdpr": false,
+    "imageResize": true
   },
   "pages": {
     "index.html": {
