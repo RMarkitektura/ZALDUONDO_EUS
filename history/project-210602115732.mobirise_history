@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "zalduondo eus",
-    "currentPage": "index.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -41,7 +41,7 @@
     ],
     "versionFirst": "4.7.6",
     "uniqCompNum": 79,
-    "versionPublish": "4.12.4",
+    "versionPublish": "4.11.2",
     "screenshot": "screenshot.png",
     "favicon": false,
     "noImageResize": false,
